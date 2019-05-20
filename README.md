@@ -13,7 +13,7 @@ Ademas dicto Entity Framework y LinQ (programación funcional)
 Vamos a subir el codigo aqui. https://github.com/arielsrv/educacionit.20190513.pdd/
 
 Vamos a hacer ejercicios tanto en NET como Java
-	NET: Visual Studio IDE
+    NET: Visual Studio IDE
 	Java: IntelliJ IDEA IDE
 	
 ¿Que recordamos, que cosas de Programación orientada a Objetos?
