@@ -3,6 +3,8 @@ Patrones de Diseño
 Instructor: Ariel Piñeiro
 Email: arielsrv@gmail.com
 
+Manual: https://github.com/arielsrv/educacionit.20190513.pdd/blob/master/patrones.pdf
+
 Expert en Mercado Libre - Desarrollo de Software en Java, NET, Go, React entre otras.
 Profe en EducacionIT y Universidad CAECE 
 
