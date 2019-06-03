@@ -13,6 +13,8 @@ Vamos a subir el codigo aqui. https://github.com/arielsrv/educacionit.20190513.p
 Vamos a hacer ejercicios tanto en NET como Java
 	NET: Visual Studio IDE
 	Java: IntelliJ IDEA IDE
+
+Clase 1 13/05/2019
 	
 ¿Que recordamos, que cosas de Programación orientada a Objetos?
 
@@ -26,7 +28,7 @@ Abstraccion
 Agregacion / Composicion -> Relaciones
 
 Repaso
-	Ejercicio
+Ejercicio 1
 		Calcular el salario de una jerarquía de empleados
 			Administrativo: $10000
 			Supervisor: $20000
@@ -36,6 +38,14 @@ Repaso
 			Nos piden un cambio -> VendedorPorComision: $10000 + $100 c/comision
 				10 comision + basico
 				$11000
+				
+Ejercicio 2
+	Problematica
+		* Tengo un solo balanceador de carga
+
+
+				
+			
 			
 	
 	
