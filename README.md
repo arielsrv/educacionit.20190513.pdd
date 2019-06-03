@@ -79,6 +79,19 @@ Clase 2
 	Command 
 	
 Clase 3
+	Ejercicio 1
+		Tenemos un UserService, que retorna un objeto User. Utilizando un método llamado Get. Y que tenga la posibilidad de obtener al User desde un cache o una base de datos.
+		
+	Strategy
+	
+	Ejercicio 2
+		Necesitamos hacer un chat. Que tenga participantes, que tenga una sala de chat. Y algunas validaciones minimas.
+		
+		Resolver el problema de que instancias (participantes en este caso) tengan que conocerse entre sí.
+		
+	Mediator
+		
+		
 
 
 
