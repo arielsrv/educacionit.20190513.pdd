@@ -29,6 +29,13 @@ Herencias
 Abstraccion
 Agregacion / Composicion -> Relaciones
 
+Patrones vistos hasta la fecha
+
+	* Singleton
+	* Chain of responsibility
+	* Template Method
+	* Command
+
 Repaso
 Ejercicio 1
 		Calcular el salario de una jerarquía de empleados
@@ -43,10 +50,7 @@ Ejercicio 1
 				
 Ejercicio 2
 	Problematica
-		* Tengo un solo balanceador de carga
-
-
-				
+		* Tengo un solo balanceador de carga		
 			
 			
 Clase 2
@@ -72,7 +76,9 @@ Clase 2
 		para OSX y Windows
 
 
-
+	Command 
+	
+Clase 3
 
 
 
