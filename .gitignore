@@ -3,3 +3,6 @@
 bin
 obj
 .vs/
+.idea/
+*.class
+*.iml

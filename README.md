@@ -3,6 +3,8 @@ Patrones de Diseño
 Instructor: Ariel Piñeiro
 Email: arielsrv@gmail.com
 
+Manual: https://github.com/arielsrv/educacionit.20190513.pdd/blob/master/patrones.pdf
+
 Expert en Mercado Libre - Desarrollo de Software en Java, NET, Go, React entre otras.
 Profe en EducacionIT y Universidad CAECE 
 
@@ -11,7 +13,7 @@ Ademas dicto Entity Framework y LinQ (programación funcional)
 Vamos a subir el codigo aqui. https://github.com/arielsrv/educacionit.20190513.pdd/
 
 Vamos a hacer ejercicios tanto en NET como Java
-	NET: Visual Studio IDE
+    NET: Visual Studio IDE
 	Java: IntelliJ IDEA IDE
 
 Clase 1 13/05/2019
@@ -47,7 +49,33 @@ Ejercicio 2
 				
 			
 			
-	
+Clase 2
+	Ejercicio 1
+		Dado un determinado monto para solicitud de un préstamo, asignar un aprobador adecuado en base al monto solicitado.
+		Los aprobadores, pueden ser:
+			Empleado: 0 < monto < 10000
+			Supervisor: 10000 < monto < 50000
+			Gerente: 50000 < monto < 500000
+
+	Chain of responsibility		
+
+	Ejercicio 2
+		Necesitamos crear DAOs (data access objects) que sean capaces de ejecutar una consulta, y maximizar la reutilización
+		de código. 1 DAO de Producto + 1 DAO de Clientes. 
+			SELECT * FROM Products
+			SELECT * FROM Customers
+
+	Template method
+
+	Ejercicio 3
+		Necesitamos crear scripts de linea de comandos que sirven para hacer backups / restores de archivos 
+		para OSX y Windows
+
+
+
+
+
+
 	
 	
 	
