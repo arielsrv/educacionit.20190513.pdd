@@ -37,6 +37,8 @@ Patrones vistos hasta la fecha
 	* Command
 	* Strategy
 	* Mediator
+	* Bridge
+	* Iterator
 
 Repaso
 Ejercicio 1
