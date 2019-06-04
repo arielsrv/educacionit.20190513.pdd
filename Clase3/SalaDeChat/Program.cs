@@ -17,7 +17,7 @@ namespace SalaDeChat
             chatRoom.Join(Juan);
             chatRoom.Join(Maria);
 
-            Juan.Send("Hola! ¿cómo estás", "Maria");
+            Juan.Send("Hola! ¿cómo estás?", "Maria");
         }
     }
 

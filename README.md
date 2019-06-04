@@ -35,6 +35,8 @@ Patrones vistos hasta la fecha
 	* Chain of responsibility
 	* Template Method
 	* Command
+	* Strategy
+	* Mediator
 
 Repaso
 Ejercicio 1
@@ -90,6 +92,13 @@ Clase 3
 		Resolver el problema de que instancias (participantes en este caso) tengan que conocerse entre sí.
 		
 	Mediator
+		
+	Ejercicio 3
+		Necesitamos crear estructuras que dependen de otra familia de objetos. Por ej: tenemos que crear
+		diferentes tipos de documentos, donde cada uno se compone de páginas, que no necesariamente son del mismo tipo.
+		
+	Factory Method	
+		
 		
 		
 
