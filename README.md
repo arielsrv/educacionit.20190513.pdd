@@ -98,6 +98,19 @@ Clase 3
 		diferentes tipos de documentos, donde cada uno se compone de páginas, que no necesariamente son del mismo tipo.
 		
 	Factory Method	
+	
+	Ejercicio 4
+		Queremos conectar diferentes implementaciones a traves de dos o mas niveles de abstracción. Para ello utilizamos el patron.
+		
+	Ejercicio 5
+	
+		Necesitmaos crear una mencanismo para acceder a los elementos de una colección.
+		
+		Iterator.
+	
+		
+		
+	
 		
 		
 		

@@ -16,6 +16,7 @@ namespace Documentos
             {
                 // SysOut(page.getClass().simpleName())
                 Console.WriteLine(page.GetType().Name);
+                // validation.apply(item);
             }
         }
     }
