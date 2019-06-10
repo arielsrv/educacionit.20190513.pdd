@@ -39,6 +39,7 @@ Patrones vistos hasta la fecha
 	* Mediator
 	* Bridge
 	* Iterator
+	* Proxy 
 
 Repaso
 Ejercicio 1
@@ -117,6 +118,8 @@ Clase 4
 			Cliente: quien consume nuestros componentes
 
 		Ejemplo de calculadora y un proxy que registra log de las operaciones
+
+		Proxy Pattern
 
 	
 	
