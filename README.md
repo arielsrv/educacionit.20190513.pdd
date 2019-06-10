@@ -92,7 +92,7 @@ Clase 3
 		Necesitamos hacer un chat. Que tenga participantes, que tenga una sala de chat. Y algunas validaciones minimas.
 		
 		Resolver el problema de que instancias (participantes en este caso) tengan que conocerse entre sí.
-		
+        
 	Mediator
 		
 	Ejercicio 3
@@ -109,6 +109,16 @@ Clase 3
 		Necesitmaos crear una mencanismo para acceder a los elementos de una colección.
 		
 		Iterator.
+
+Clase 4		
+
+	Ejercio 1
+		Necesitamos crear un par de entidades de dominio relacionadas entre sí. Que tengas acceso a un origen de datos (como puede ser una db) y debe ser transparente para el cliente.
+			Cliente: quien consume nuestros componentes
+
+		Ejemplo de calculadora y un proxy que registra log de las operaciones
+
+	
 	
 		
 		
