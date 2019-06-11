@@ -40,6 +40,9 @@ Patrones vistos hasta la fecha
 	* Bridge
 	* Iterator
 	* Proxy 
+	* Observer
+	* Builder (en su variante fluent)
+
 
 Repaso
 Ejercicio 1
@@ -119,7 +122,21 @@ Clase 4
 
 		Ejemplo de calculadora y un proxy que registra log de las operaciones
 
-		Proxy Pattern
+		Proxy.
+
+	Ejercicio 2
+		Dado una acción, papel o título del Mercado de Valores, necesitamos que nuestros inversores se enteren de las varaciones de precio (para tomar futuras decisiones).
+
+		Observer.
+
+	Ejercicio 3
+		Queremos cambiar y facilitar la manera de crear objetos, sin que el cliente utilice los setters y constructores convencionales, por ejemplo para la clase User.
+
+		Builder Pattern (en este caso utilizamos la sintaxis fluent como la gran mayoría de frameworks/sdk del mercado)
+
+		myMessage
+		.h().o().l().a()
+		.show();
 
 	
 	
