@@ -143,13 +143,31 @@ Clase 4
 
 Clase 5
 	
-	Ejercicio 1: Realizar un piedra/papel/tijera. Dejamos un ejemplo de como evitar if/else "magicos" y comprobaciones de tipos al mejor estilo is instanceOf /  == .GetType().Class()
+	Ejercicio 1
+	
+		Realizar un piedra/papel/tijera. Dejamos un ejemplo de como evitar if/else "magicos" y comprobaciones de tipos al mejor estilo is instanceOf /  == .GetType().Class()
 		
 		Double Dispatch	
 	
-	Ejercicio 2: Necesitamos crear tipos de tarjetas simples, y agregarle la funcionalidad de que tambien puedan ser combos.
+	Ejercicio 2 
+		
+		Necesitamos crear tipos de tarjetas simples, y agregarle la funcionalidad de que tambien puedan ser combos.
 	
 		Decorator
+		
+	Ejercicio 3 N
+	
+		Necesitamos modificar el saldo de una cuenta y tener la posiblidad de volver a una estado anterior, si es que ocurre una falla.
+	
+		Memento
+		
+	Ejercicio 4 
+	
+		Necesitamos crear copias de los objetos.
+	
+		Prototype
+		
+	Ejercicio 5
 	
 	
 		
