@@ -42,6 +42,9 @@ Patrones vistos hasta la fecha
 	* Proxy 
 	* Observer
 	* Builder (en su variante fluent)
+	* Ejercicio de Double Dispatch
+	* Decorator
+	
 
 
 Repaso
@@ -138,6 +141,15 @@ Clase 4
 		.h().o().l().a()
 		.show();
 
+Clase 5
+	
+	Ejercicio 1: Realizar un piedra/papel/tijera. Dejamos un ejemplo de como evitar if/else "magicos" y comprobaciones de tipos al mejor estilo is instanceOf /  == .GetType().Class()
+		
+		Double Dispatch	
+	
+	Ejercicio 2: Necesitamos crear tipos de tarjetas simples, y agregarle la funcionalidad de que tambien puedan ser combos.
+	
+		Decorator
 	
 	
 		
