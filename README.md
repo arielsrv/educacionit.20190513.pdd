@@ -39,6 +39,10 @@ Patrones vistos hasta la fecha
 	* Mediator
 	* Bridge
 	* Iterator
+	* Proxy 
+	* Observer
+	* Builder (en su variante fluent)
+
 
 Repaso
 Ejercicio 1
@@ -92,7 +96,7 @@ Clase 3
 		Necesitamos hacer un chat. Que tenga participantes, que tenga una sala de chat. Y algunas validaciones minimas.
 		
 		Resolver el problema de que instancias (participantes en este caso) tengan que conocerse entre sí.
-		
+        
 	Mediator
 		
 	Ejercicio 3
@@ -109,6 +113,32 @@ Clase 3
 		Necesitmaos crear una mencanismo para acceder a los elementos de una colección.
 		
 		Iterator.
+
+Clase 4		
+
+	Ejercio 1
+		Necesitamos crear un par de entidades de dominio relacionadas entre sí. Que tengas acceso a un origen de datos (como puede ser una db) y debe ser transparente para el cliente.
+			Cliente: quien consume nuestros componentes
+
+		Ejemplo de calculadora y un proxy que registra log de las operaciones
+
+		Proxy.
+
+	Ejercicio 2
+		Dado una acción, papel o título del Mercado de Valores, necesitamos que nuestros inversores se enteren de las varaciones de precio (para tomar futuras decisiones).
+
+		Observer.
+
+	Ejercicio 3
+		Queremos cambiar y facilitar la manera de crear objetos, sin que el cliente utilice los setters y constructores convencionales, por ejemplo para la clase User.
+
+		Builder Pattern (en este caso utilizamos la sintaxis fluent como la gran mayoría de frameworks/sdk del mercado)
+
+		myMessage
+		.h().o().l().a()
+		.show();
+
+	
 	
 		
 		
