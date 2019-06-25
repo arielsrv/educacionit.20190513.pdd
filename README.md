@@ -48,10 +48,10 @@ Patrones vistos hasta la fecha
 	* Prototype
 	* Composite
 	* Adapter 
+	* Façade
 	
 Ejercicios complementarios
-	* Ejercicio de Double Dispatch	
-
+	* Ejercicio de Double Dispatch
 
 Repaso
 Ejercicio 1
@@ -184,6 +184,14 @@ Clase 5
 		Necesitamos traducir de alguna manera, una conversacion entre Chewie y un Alumno.
 		
 		Adapter
+		
+	Ejercicio 7
+		
+		Contexto: Mi app usa diferentes modulos de diferentes dominios (microservicios de la AFIP, Servicio SOAP de cuentas bancarias, y GMaps API).
+		
+		Necesitamos hacer un aprobador de creditos utilizando estos modulos.
+		
+		Façade
 		
 	
 	
