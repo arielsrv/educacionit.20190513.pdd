@@ -37,14 +37,20 @@ Patrones vistos hasta la fecha
 	* Command
 	* Strategy
 	* Mediator
+	* Factory Method
 	* Bridge
 	* Iterator
 	* Proxy 
 	* Observer
-	* Builder (en su variante fluent)
-	* Ejercicio de Double Dispatch
+	* Builder (en su variante fluent)	
 	* Decorator
+	* Memento
+	* Prototype
+	* Composite
+	* Adapter 
 	
+Ejercicios complementarios
+	* Ejercicio de Double Dispatch	
 
 
 Repaso
@@ -155,7 +161,7 @@ Clase 5
 	
 		Decorator
 		
-	Ejercicio 3 N
+	Ejercicio 3
 	
 		Necesitamos modificar el saldo de una cuenta y tener la posiblidad de volver a una estado anterior, si es que ocurre una falla.
 	
@@ -168,6 +174,17 @@ Clase 5
 		Prototype
 		
 	Ejercicio 5
+	
+		Necesitamos crear una una estructura de componentes, los cuales pueden ser simples o compuestos. Un componente simple es terminal, y un componente compuesto puede contener componentes simples o compuestos.
+		
+		Composite
+		
+	Ejercicio 6
+	
+		Necesitamos traducir de alguna manera, una conversacion entre Chewie y un Alumno.
+		
+		Adapter
+		
 	
 	
 		
