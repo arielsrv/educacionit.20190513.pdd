@@ -53,6 +53,7 @@ Patrones vistos hasta la fecha
 Ejercicios complementarios
 	* Ejercicio de Double Dispatch
 	* Ejercicio de uso de Genéricos y cómo se podría relacionar con un Singleton "Generico".
+	* Listas enlazadas https://www.monografias.com/trabajos101/las-istas-enlazadas/image002.jpg
 
 Repaso
 Ejercicio 1
