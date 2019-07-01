@@ -47,11 +47,12 @@ Patrones vistos hasta la fecha
 	* Memento
 	* Prototype
 	* Composite
-	* Adapter 
+	* Adapter
 	* Façade
 	
 Ejercicios complementarios
 	* Ejercicio de Double Dispatch
+	* Ejercicio de uso de Genéricos y cómo se podría relacionar con un Singleton "Generico".
 
 Repaso
 Ejercicio 1

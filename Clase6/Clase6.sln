@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericos", "Genericos\Genericos.csproj", "{2F90DF10-F9FE-4462-A33C-2DDC3345388F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalanceadorDeCarga", "BalanceadorDeCarga\BalanceadorDeCarga.csproj", "{D2251FCC-6F38-4561-8C9C-863EA020D2A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F90DF10-F9FE-4462-A33C-2DDC3345388F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F90DF10-F9FE-4462-A33C-2DDC3345388F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F90DF10-F9FE-4462-A33C-2DDC3345388F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F90DF10-F9FE-4462-A33C-2DDC3345388F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2251FCC-6F38-4561-8C9C-863EA020D2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2251FCC-6F38-4561-8C9C-863EA020D2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2251FCC-6F38-4561-8C9C-863EA020D2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2251FCC-6F38-4561-8C9C-863EA020D2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E8C9E1E-6BC4-4B1D-886A-A59774F729E8}
+	EndGlobalSection
+EndGlobal
