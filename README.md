@@ -49,6 +49,7 @@ Patrones vistos hasta la fecha
 	* Composite
 	* Adapter
 	* Façade
+	* Abstract Factory
 	
 Ejercicios complementarios
 	* Ejercicio de Double Dispatch
@@ -194,6 +195,19 @@ Clase 5
 		Necesitamos hacer un aprobador de creditos utilizando estos modulos.
 		
 		Façade
+		
+Clase 6
+
+	Ejercicio 1 (de Genericos)
+	
+		Problema: crear e iterar una colección que admita genéricos.
+		
+	Ejercicio 2
+	
+		Problema: Quiero crear daos de Productos o Clientes de la misma forma independientemente de un motor de base de datos especifico.
+		
+		Abstract Factory
+		
 		
 	
 	
