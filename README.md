@@ -50,6 +50,7 @@ Patrones vistos hasta la fecha
 	* Adapter
 	* Façade
 	* Abstract Factory
+	* Flyweight
 	
 Ejercicios complementarios
 	* Ejercicio de Double Dispatch
@@ -207,6 +208,11 @@ Clase 6
 		Problema: Quiero crear daos de Productos o Clientes de la misma forma independientemente de un motor de base de datos especifico.
 		
 		Abstract Factory
+	
+	Ejercicio 3
+	
+		Hacer un cache para obtener characteres y no recrearlos todos el tiempo
+		
 		
 		
 	

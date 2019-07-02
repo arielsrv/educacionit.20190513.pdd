@@ -17,6 +17,26 @@ namespace FamiliaDeDAOs
         }
     }
 
+
+    interface Dao<T>
+    {
+        T GetById(int id);
+    }
+
+    class UserDao : Dao<User>
+    {
+        public User GetById(int id)
+        {
+            return new User();
+        }
+    }
+
+    class User
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
+
     abstract class AbstractDaoProvider
     {
         public abstract ProductDao CreateProductDao();
