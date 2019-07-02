@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericos", "Genericos\Gene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalanceadorDeCarga", "BalanceadorDeCarga\BalanceadorDeCarga.csproj", "{D2251FCC-6F38-4561-8C9C-863EA020D2A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamiliaDeDAOs", "FamiliaDeDAOs\FamiliaDeDAOs.csproj", "{5B69AE77-A491-47D4-B7CA-8B1BFBE586E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D2251FCC-6F38-4561-8C9C-863EA020D2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2251FCC-6F38-4561-8C9C-863EA020D2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2251FCC-6F38-4561-8C9C-863EA020D2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B69AE77-A491-47D4-B7CA-8B1BFBE586E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B69AE77-A491-47D4-B7CA-8B1BFBE586E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B69AE77-A491-47D4-B7CA-8B1BFBE586E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B69AE77-A491-47D4-B7CA-8B1BFBE586E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
