@@ -51,7 +51,7 @@ Patrones vistos hasta la fecha
 	* Façade
 	* Abstract Factory
 	* Flyweight
-	* Visitor
+	* Visitor (recuerden que pasaría si hubiera una jerarquía, resolución similar a Piedra Papel Tijera)
 	
 Ejercicios complementarios
 	* Ejercicio de Double Dispatch
@@ -214,7 +214,15 @@ Clase 6
 	
 		Hacer un cache para obtener characteres y no recrearlos todos el tiempo
 		
+		Flyweight
 		
+Clase 7
+
+	Ejercicio 1
+	
+		Implementar algoritmos que operan sobre empleados en clases y no en funciones o métodos.
+		
+		Visitor
 		
 	
 	
