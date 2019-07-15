@@ -216,6 +216,7 @@ Clase 6
 		
 		Flyweight
 		
+		
 Clase 7
 
 	Ejercicio 1
@@ -225,8 +226,8 @@ Clase 7
 		Visitor
 		
 	
-	
-		
+	Tips
+		* 
 		
 	
 		
