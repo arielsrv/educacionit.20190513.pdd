@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Genericos
 {
@@ -34,32 +35,18 @@ namespace Genericos
             collection.Add(5);
             collection.Add(3);
             collection.Add(2);
-            collection.Add(9);            
+            collection.Add(9);
+
+            IEnumerable<int> result = collection.Where(x => x > 3);
 
             foreach (int value in collection)
             {
                 Console.WriteLine(value);
             }
 
-            //MyCollection collection = new MyCollection();
-            //foreach (object value in collection)
-            //{
-            //    int n = (int) value;
-            //    Console.WriteLine(n);
-            //}            
+                    
         }
     }
-
-    class MyIntCollection
-    {
-
-    }
-
-    class MyStringCollection
-    {
-
-    }
-
 
     class MyCollection<T> : IEnumerable<T>
     {

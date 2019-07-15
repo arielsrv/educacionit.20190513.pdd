@@ -51,6 +51,7 @@ Patrones vistos hasta la fecha
 	* Façade
 	* Abstract Factory
 	* Flyweight
+	* Visitor
 	
 Ejercicios complementarios
 	* Ejercicio de Double Dispatch
