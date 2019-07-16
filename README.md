@@ -52,6 +52,7 @@ Patrones vistos hasta la fecha
 	* Abstract Factory
 	* Flyweight
 	* Visitor (recuerden que pasaría si hubiera una jerarquía, resolución similar a Piedra Papel Tijera)
+	* State
 	
 Ejercicios complementarios
 	* Ejercicio de Double Dispatch
@@ -227,8 +228,20 @@ Clase 7
 		
 	
 	Tips
-		* 
+		* POO (diseño)
+		* Design Patterns
+		* SOLID Principles
+		* Unit Test (tipos de test, mock, stub and fakes)
+		* Estructuras de Datos (pilas, colas, arboles)
+		* Concurrencia y Paralelismo 
+		* Pensar como encontrar duplicados en un array. ¿Por qué usaste una estructura de tipo clave/valor?
+		* Hacker-rank (https://www.hackerrank.com/)
 		
+	Ejercicio 2
+	
+		Necesitamos modelar estados de una cuenta bancaria en funcion del saldo de un usuario. Cuenta tipo Deudora, Regular o VIP
+		
+		State 
 	
 		
 		

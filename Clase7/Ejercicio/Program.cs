@@ -17,9 +17,10 @@ namespace Ejercicio
 
         public Dictionary<int, int> GetDuplicates(List<int> values)
         {
-                // 1) Implementar el algoritmo
-                // 2) ¿Cómo implemtarían su propia tabla de hash?
-                // 3) Entender a fondo como funciona una tabla de hash, dictionary, hashmap o como se llame en su lenguaje
+            // 1) Implementar el algoritmo
+            // 2) ¿Cómo implemtarían su propia tabla de hash?
+            // 3) Entender a fondo como funciona una tabla de hash, dictionary, hashmap o como se llame en su lenguaje
+            return null;
         }
     }
 }
